@@ -1,7 +1,7 @@
 
 # Game of Life
 
-This repo contains six different implementations of Conway's Game of Life: A simple implementation of Game of Life, written in C, a CUDA version, three MPI versions (one using serial I/O, one async I/O and another one using collective I/O) and finally an MPI + OpenMP version (which uses collective I/O). The purpose of writing these six versions was to benchmark their differences in performance.
+This repo contains six different implementations of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): A simple implementation of Game of Life, written in C, a CUDA version, three MPI versions (one using serial I/O, one async I/O and another one using collective I/O) and finally an MPI + OpenMP version (which uses collective I/O). The purpose of writing these six versions was to benchmark their differences in performance.
 
 ## Getting Started
 
