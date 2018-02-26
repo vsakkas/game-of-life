@@ -16,7 +16,7 @@ gcc --version
 ```
 You also need to install MPI and CUDA. To do so, you can use the following commands:
 ```
-apt install mpich2
+apt install mpich
 apt install nvidia-cuda-toolkit
 ```
 
